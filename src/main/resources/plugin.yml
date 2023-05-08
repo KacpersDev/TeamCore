@@ -1,0 +1,8 @@
+name: TeamCore
+version: '${project.version}'
+main: me.kacper.TeamCore
+description: Teams core
+author: KacperM
+commands:
+  team:
+    aliases: [t]
